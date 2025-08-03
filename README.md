@@ -7,8 +7,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toddpolakdev&layout=compact)](https://github.com/toddpolakdev)
 
-[![HTML](https://img.shields.io/badge/-HTML-blue)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)](https://www.javascript.com/)
+[![HTML](https://img.shields.io/badge/-HTML-blue)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![React](https://img.shields.io/badge/-React-blue)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-green)](https://nodejs.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-blue)](https://www.mysql.com/)
