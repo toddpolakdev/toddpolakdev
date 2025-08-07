@@ -14,3 +14,8 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-blue)](https://www.mysql.com/)
 [![Git](https://img.shields.io/badge/-Git-black)](https://git-scm.com/)
 [![VSCode](https://img.shields.io/badge/-VSCode-blue)](https://code.visualstudio.com/)
+
+##
+For my earlier open source projects and contributions (2020–2022), see my previous GitHub account:  
+[github.com/toddpolak](https://github.com/toddpolak)
+
