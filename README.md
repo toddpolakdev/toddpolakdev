@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toddpolakdev&layout=compact)](https://github.com/toddpolakdev)
-
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML](https://img.shields.io/badge/-HTML-blue)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![React](https://img.shields.io/badge/-React-blue)](https://reactjs.org/)
