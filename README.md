@@ -6,6 +6,7 @@
 -->
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-red)](https://www.typescriptlang.org/)
 [![HTML](https://img.shields.io/badge/-HTML-blue)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![React](https://img.shields.io/badge/-React-blue)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-green)](https://nodejs.org/)
